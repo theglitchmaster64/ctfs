@@ -1,0 +1,18 @@
+shellcode on stack at address 0x7fffffffda70
+user input 6th element popped by printf from stack (?)
+
+printf@got.plt address = 0x00000000004005b0 => jmp 0x601028
+
+set {int}0x601028=0xdeadbeef => redirects rip to 0x7fffdeadbeef
+
+
+
+steps:-
+	put shellcode on stack
+	redirect rip to 0x7fffffffda70 by doing:
+		set {int}0x601028=0x7fffffffda70
+
+
+
+
+

@@ -1,0 +1,20 @@
+sending post request...
+Thanks!
+
+retriving redis keys...
+key: *1
+$-1
+
+
+key: $5
+$-1
+
+
+key: test0
+$24
+AAAAAAAAAAAAAAAAAAAAAAAA
+
+
+
+sending get to /test...
+test

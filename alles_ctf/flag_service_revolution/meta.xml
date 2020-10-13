@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>ALLES! CTF Challenge</name>
+  <coder>TheVamp, 0x4d5a</coder>
+  <version>1.0</version>
+  <short_description>Reversing Challenge</short_description>
+  <long_description>Welcome to our Great Flag{Service_Revolution}!</long_description>
+
+</app>

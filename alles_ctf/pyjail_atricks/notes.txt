@@ -1,0 +1,17 @@
+allowed chars: acdegilnoprstv012379_+().
+
+["".__dir__()[3][10]]+["".__dir__()[3][11]]
+eval('().__class__.__'+a[0]+'ases__[0].__s'+a[1]+a[0]+'classes__()')
+
+
+
+lost it:-
+
+>>> a = ["".__dir__()[3][10]]+["".__dir__()[3][11]]
+>>> a = eval('().__class__.__'+a[0]+'ases__[0].__s'+a[1]+a[0]+'classes__()')
+>>> a = repr(a)[2700+2+3]+repr(a)[1399+1+30+10+7+1]+repr(a)[1399+1+30+10+7+1]+repr(a)[1230]+repr(a)[930+17+1]+"()"
+>>> a = eval(a)
+>>> a = print(a)
+No flag for you!
+
+

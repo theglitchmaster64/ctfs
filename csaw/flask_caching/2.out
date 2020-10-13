@@ -1,0 +1,27 @@
+sending post request...
+Thanks!
+
+retriving redis keys...
+key: *2
+$-1
+
+
+key: $23
+$-1
+
+
+key: flask_cache_view//test0
+b'$20\r\n!\x80\x04\x95\x08\x00\x00\x00\x00\x00\x00\x00\x8c\x04test\x94.\r\n'
+
+key: $5
+$-1
+
+
+key: test0
+$24
+AAAAAAAAAAAAAAAAAAAAAAAA
+
+
+
+sending get to /test...
+test
